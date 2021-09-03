@@ -1,0 +1,7 @@
+.list {
+  border: 2px solid lightblue;
+  padding: 1%;
+  margin: 1%;
+  background-color: lightskyblue;
+  border-radius: 10% 2% 10% 2%;
+}
